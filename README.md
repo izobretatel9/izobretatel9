@@ -16,3 +16,5 @@ My contacts:
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
 [![stats](https://github-readme-stats.vercel.app/api?username=izobretatel9&show_icons=true&theme=synthwave&title_color=Что&count_private=true)](https://github.com/izobretatel9)
+
+![Profile views](https://gpvc.arturio.dev/izobretatel9)
